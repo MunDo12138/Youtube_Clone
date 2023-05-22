@@ -16,7 +16,6 @@ export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'JS Mastery', icon: <FaceRetouchingNaturalIcon />, },
   { name: 'Linus Tech Tips', icon: <FaceRetouchingNaturalIcon />, },
   { name: 'Music', icon: <MusicNoteIcon /> },
   { name: 'Podcast', icon: <GraphicEqIcon />, },
